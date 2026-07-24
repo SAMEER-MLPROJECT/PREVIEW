@@ -1,12 +1,11 @@
 ## Repository Availability
 
-## This is just a preview. The complete research repository is currently maintained as a private development repository.
+## NOTE : This is just a preview. The complete research repository is currently maintained as a private development repository.
 
 ### This public repository presents selected components intended to illustrate the System architecture and technical direction. Certain implementation details , experimental data, and supporting documentation are intentionally withheld to preserve research integrity, intellectual property, and reproducibility until their formal release.
 
 
 # CryptEthEra
-## NOTE : ALL THE FILES COMMITED EARLIER THAN 1 YEAR ARE OUTDATED PREMATURE SKETCHES
 
 ### Blockchain-Assisted Smart Grid Security & Energy Theft Detection Framework
 
