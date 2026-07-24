@@ -216,7 +216,7 @@ K[Meter Tampering] --> L[Hardware Tamper Alerts]
 
 ### Meter Node
 
-* Arduino UNO
+* STM32
 * ESP8266
 * ZMCT103C Current Sensor
 * LCD Interface
@@ -229,7 +229,7 @@ K[Meter Tampering] --> L[Hardware Tamper Alerts]
 
 ### Monitoring System
 
-* Python Dashboard
+* Central Monitoring Dashboard
 * Anomaly Detection Engine
 * Ledger Visualization
 * Event Logging
@@ -251,7 +251,7 @@ Applications:
 Applications:
 
 * Localized anomaly identification
-* Consumption clustering
+* Consumption clustering using 
 * Theft hotspot detection
 
 ### Predictive Maintenance
@@ -259,7 +259,7 @@ Applications:
 Research prototype for:
 
 * Equipment degradation prediction
-* Abnormal current behavior analysis
+* Abnormal current draw detection
 * Preventive maintenance planning
 
 ---
