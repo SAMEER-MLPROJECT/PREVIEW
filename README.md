@@ -20,7 +20,7 @@
 
 ## HIGHLIGHTS
 ### Samsung Solve for Tomorrow Grand Finale 
-![SAMSUNG EVENT](recognition/Samsung_sft/photo_2026-06-21_12-11-33.jpg)
+![SAMSUNG EVENT](MEDIA/photo_2026-07-24_07-07-40.jpg)
 
 ### MVP ( DEMONSTRATED PROTYPE )
 ![FINAL PROTOTYPE](MEDIA/photo_2025-09-08_09-03-20.jpg)
