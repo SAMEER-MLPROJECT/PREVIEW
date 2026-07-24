@@ -1,8 +1,8 @@
 ## Repository Availability
 
-The complete research repository is currently maintained as a private development repository.
+## This is just a preview. The complete research repository is currently maintained as a private development repository.
 
-This public repository presents selected components intended to illustrate the project's architecture and technical direction. Certain implementation details, experimental data, and supporting documentation are intentionally withheld to preserve research integrity, intellectual property, and reproducibility until their formal release.
+### This public repository presents selected components intended to illustrate the project's architecture and technical direction. Certain implementation details, experimental data, and supporting documentation are intentionally withheld to preserve research integrity, intellectual property, and reproducibility until their formal release.
 
 
 # CryptEthEra
